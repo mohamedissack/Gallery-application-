@@ -6,5 +6,5 @@ This is a Django application for personal gallery that allows a user to upload i
 # #Live Link
 Click to visit the webite
 
-View different photos that interest them Click a single image to expand it and view the details of that photo Search for different categories
+View different photos that interest them Click a single image to expand it and view the details of that photo Search for different categories View photos based on the location they were taken.
 
