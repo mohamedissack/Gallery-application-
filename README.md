@@ -4,7 +4,7 @@
 This is a Django application for personal gallery that allows a user to upload images for other to see and be able to to share by coping the image link.
 
 # Live Link
-Click to visit the webite
+Click to visit the webite: https://photosgalary.herokuapp.com/
 
 # User Story
 View different photos that interest them
@@ -56,4 +56,6 @@ Heroku
 Mohamed Issack
 License
 [MIT]
+
+
 Copyright (c) 2021 mohamedissack.
