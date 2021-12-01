@@ -1,0 +1,22 @@
+{%extends 'all-photos/base.html'%}
+
+{% block content %}
+<div class="row">
+  <div class="column">
+    <a href="{% url 'nature' %}"><div class="card">nature</div></a>
+  </div>
+  <div class="column">
+    <a href="{% url 'travel' %}"><div class="card">travel</div></a>
+  </div>
+  <div class="column">
+    <a href="{% url 'animals' %}"><div class="card">animals</div></a>
+  </div>
+  <div class="column">
+    <a href="{% url 'food' %}"><div class="card">foods</div></a>
+  </div>
+  <div class="column">
+    <a href="{% url 'work' %}"><div class="card">work</div></a>
+  </div>
+</div>
+
+{%endblock%}
