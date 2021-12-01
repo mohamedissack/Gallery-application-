@@ -49,7 +49,9 @@ python manage.py test
 
 # Technology used
 Python3.8
+
 Django 2.2.9
+
 Heroku
 
 # Author
